@@ -1,4 +1,4 @@
-# Classificador de nível de Herói | Desafio de Projeto DIO
+# Escrevendo classes de um jogo | Desafio de Projeto DIO
 
 |                         |                                         |
 |-------------------------|-----------------------------------------|
